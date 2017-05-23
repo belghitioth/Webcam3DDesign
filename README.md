@@ -1,6 +1,15 @@
-# Webcam3DDesign
+# Webcam3DDesign 
+
+-Version compatible avec Python 2.7.12
 
 WebCam3DDesign is a group project wich aim to make simple draws by Webcam and visualize them
+
+GENERAL USAGE NOTES 
+-------------------
+- Make sure you have Python 2.x and not Python3.x
+- Please install OpenCv and Tkinter
+- Press Esc key if you want to quit the application
+
 
 CONTACT
 -------
